@@ -1,7 +1,6 @@
 {
   "name": "worldbuilder",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt generate",
