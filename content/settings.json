@@ -1,6 +1,8 @@
 {
   "title": "WorldBuilder",
-  "url": "https://starter.docus.dev",
-  "github": "nuxt/docus-starter",
-  "twitter": "elrohir_bfme"
+  "description": "Tutoriel pour apprendre à utiliser Worldbuilder",
+  "url": "https://worldbuilder-bfme.vercel.app/",
+  "github": "elrohir_bfme",
+  "twitter": "elrohir_bfme",
+  "creadits": "Elrohir"
 }
