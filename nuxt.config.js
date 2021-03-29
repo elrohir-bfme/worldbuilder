@@ -2,12 +2,8 @@ import { withDocus } from 'docus'
 
 export default withDocus({
   i18n: {
+    defaultLocale: 'fr',
     locales: () => [{
-      code: 'en',
-      iso: 'en-US',
-      file: 'en-US.js',
-      name: 'English'
-    }, {
       code: 'fr',
       iso: 'fr-FR',
       file: 'fr-FR.js',
